@@ -1,9 +1,10 @@
+
 #include "main.h"
 
 /**
  * clear_bit - sets a particular bits value to 0
- * @n: pointer to the desired number 
- * @index: bits index that has to be set to 1
+ * @n: pointer to the desired number
+ * @index: index of the bit to be cleared
  *
  * Return: 1 for success, -1 for failure
  */
